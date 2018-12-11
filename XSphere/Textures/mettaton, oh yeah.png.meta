@@ -1,0 +1,2286 @@
+fileFormatVersion: 2
+guid: 72ccc7da8d67777409153aa1d2b64909
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mettaton stand forward
+    21300002: mettaton walk forward right foot
+    21300004: mettaton stand forward 2
+    21300006: mettaton walk forward left foot
+    21300008: mettaton stand backwards
+    21300010: mettaton walks backwards left foot
+    21300012: mettaton stand backwards 2
+    21300014: metaton walks backwards right foot
+    21300016: mettaton stand left
+    21300018: mettaton walks left, left foot
+    21300020: mettaton stand left 2
+    21300022: mettaton walks left, right foot
+    21300024: mettaton walk right, left foot
+    21300026: mettaton stand right
+    21300028: mettaton, oh yeah_14
+    21300030: mettaton stand right 2
+    21300032: mettaton interact
+    21300034: mettaton, oh yeah_17
+    21300036: mettaton pose 1
+    21300038: mettaton pose 2
+    21300040: mettaton pose 5
+    21300042: mettaton pose 7
+    21300044: mettaton, oh yeah_22
+    21300046: mettaton, oh yeah_23
+    21300048: mettaton, oh yeah_24
+    21300050: mettaton, oh yeah_25
+    21300052: mettaton, oh yeah_26
+    21300054: mettaton, oh yeah_27
+    21300056: mettaton, oh yeah_28
+    21300058: mettaton, oh yeah_29
+    21300060: mettaton, oh yeah_30
+    21300062: mettaton, oh yeah_31
+    21300064: mettaton, oh yeah_32
+    21300066: mettaton, oh yeah_33
+    21300068: mettaton, oh yeah_34
+    21300070: mettaton, oh yeah_35
+    21300072: mettaton pose 3
+    21300074: mettaton, oh yeah_37
+    21300076: mettaton pose 4
+    21300078: mettaton pose 6
+    21300080: mettaton, oh yeah_40
+    21300082: mettaton, oh yeah_41
+    21300084: mettaton, oh yeah_42
+    21300086: mettaton, oh yeah_43
+    21300088: mettaton, oh yeah_44
+    21300090: mettaton, oh yeah_45
+    21300092: mettaton, oh yeah_46
+    21300094: mettaton, oh yeah_47
+    21300096: mettaton, oh yeah_48
+    21300098: mettaton, oh yeah_49
+    21300100: mettaton, oh yeah_50
+    21300102: mettaton, oh yeah_51
+    21300104: mettaton, oh yeah_52
+    21300106: mettaton pose 8
+    21300108: mettaton, oh yeah_54
+    21300110: mettaton, oh yeah_55
+    21300112: mettaton, oh yeah_56
+    21300114: mettaton, oh yeah_57
+    21300116: mettaton, oh yeah_58
+    21300118: mettaton, oh yeah_59
+    21300120: mettaton, oh yeah_60
+    21300122: mettaton, oh yeah_61
+    21300124: mettaton, oh yeah_62
+    21300126: mettaton, oh yeah_63
+    21300128: mettaton, oh yeah_64
+    21300130: mettaton, oh yeah_65
+    21300132: mettaton, oh yeah_66
+    21300134: mettaton, oh yeah_67
+    21300136: mettaton, oh yeah_68
+    21300138: mettaton, oh yeah_69
+    21300140: mettaton, oh yeah_70
+    21300142: mettaton, oh yeah_71
+    21300144: mettaton, oh yeah_72
+    21300146: mettaton, oh yeah_73
+    21300148: mettaton, oh yeah_74
+    21300150: mettaton, oh yeah_75
+    21300152: mettaton, oh yeah_76
+    21300154: mettaton, oh yeah_77
+    21300156: mettaton, oh yeah_78
+    21300158: mettaton, oh yeah_79
+    21300160: mettaton, oh yeah_80
+    21300162: mettaton, oh yeah_81
+    21300164: mettaton, oh yeah_82
+    21300166: mettaton, oh yeah_83
+    21300168: mettaton, oh yeah_84
+    21300170: mettaton, oh yeah_85
+    21300172: mettaton, oh yeah_86
+    21300174: mettaton, oh yeah_87
+    21300176: mettaton, oh yeah_88
+    21300178: mettaton, oh yeah_89
+    21300180: mettaton, oh yeah_90
+    21300182: mettaton, oh yeah_91
+    21300184: mettaton, oh yeah_92
+    21300186: mettaton, oh yeah_93
+    21300188: mettaton, oh yeah_94
+    21300190: mettaton, oh yeah_95
+    21300192: mettaton, oh yeah_96
+    21300194: mettaton, oh yeah_97
+    21300196: mettaton, oh yeah_98
+    21300198: mettaton, oh yeah_99
+    21300200: mettaton, oh yeah_100
+    21300202: mettaton, oh yeah_101
+    21300204: mettaton, oh yeah_102
+    21300206: mettaton, oh yeah_0
+    21300208: mettaton, oh yeah_1
+    21300210: mettaton, oh yeah_2
+    21300212: mettaton, oh yeah_3
+    21300214: mettaton, oh yeah_4
+    21300216: mettaton, oh yeah_5
+    21300218: mettaton, oh yeah_6
+    21300220: mettaton, oh yeah_7
+    21300222: mettaton, oh yeah_8
+    21300224: mettaton, oh yeah_9
+    21300226: mettaton, oh yeah_10
+    21300228: mettaton, oh yeah_11
+    21300230: mettaton, oh yeah_12
+    21300232: mettaton, oh yeah_13
+    21300234: mettaton, oh yeah_15
+    21300236: mettaton, oh yeah_16
+    21300238: mettaton, oh yeah_18
+    21300240: mettaton, oh yeah_19
+    21300242: mettaton, oh yeah_20
+    21300244: mettaton, oh yeah_21
+    21300246: mettaton, oh yeah_36
+    21300248: mettaton, oh yeah_38
+    21300250: mettaton, oh yeah_39
+    21300252: mettaton, oh yeah_53
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mettaton, oh yeah_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71552a7891a22fc4dbf1e8371ea8b949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 87
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceefbc8b15d6c7747a499af33e8dfaf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 87
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4f7c08828cab4aa4cf425bfc64cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 87
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3acb077eb1b0684b9d107217c39e6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 87
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d6fd5365a4be4c9f4915decf9aaf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 87
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ccb664d507e6d4cb03cd98f2dbe516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 87
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1297477056f0a4e9fc7fc4d369d3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 87
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d67b0ca446484082aa1b46f9e1729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 87
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f345c4b88384a34fb6b8ac847f5fe60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 87
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f1bee34282864db44c279524287fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 87
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe638167b989cfb4287925c6421495bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 87
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b2cd129a2d7e4cbde38ca4de1b251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 87
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bde2ffc94e6f4a92b4e15a919a2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 87
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98145089d3d81954a9aeac9d54d8e361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 87
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abe20c66ff2fe04999e39cff216614a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 87
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c27fd331c1a3c439de174e020a4441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2551c3142bb634498cad0fcc083a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51669faf01e312041a5214d4d9ce34a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6ef02c0f40fc645ae1f5aee218ab31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222924e95725ffb4d8e8ed5d2681a7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 27
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaf6f8f16b51614d8cfb5b73a4c7e93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 27
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb5e7c9fa2a47448cb0f90f7df468f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45943830a8ca52845a47d3a92a3bd7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4127c5099a8fa0f49985ea787cb41c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a00ca7ffe323314c939e95492b80da6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3724da918cb44e42a2084ca58cab34a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c1415b4dbd74d4f95efcd3046c2a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160378ba57f29134a89ae719b80fa7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_28
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc15b7c6eed1014bb902e1675473dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b91cd68612f340a1154c98ef07d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d0ae6a39749e44a32924d4a7ad398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b9526099633f48bc214878e080215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be633986792a23e4eb8d347cb3cf598b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7577810d0b914a873d6d709b8431f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f0ab0a3a7800428afc2a532e67e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380664f6fe375c140a208a611eb00797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e407575ddd8ef4cb68d6fc9e667419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9556d445693b54697e7f1d55214c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 27
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920fbff4db1526a44ad97c486c981611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 27
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a41a391a9f6f742b8e2f3bc1437c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f384106c2d88f43b6f7b9aa3883dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbcf0cf3c63fcd43948ffde2e589e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c39d3c27680bf44084232f4c5191460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37eae74d4178d24c80a74a8bd888949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc2e6b9acec16b4bb7764d12e267e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_45
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144e1def7f67fe47b6c6b6391b30737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c2932eacfa2e45aa2beeaff84b62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_47
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 16
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af706253272f6db40af640e8ea1ace0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4689c77b91fe04ba25578ad84fc939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_49
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4c46bff5f25c40949862778549bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b29757a15e20740ad3e636d573185a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_51
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8f9339d6136f41873329057356063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd21e32e0e75bd4a89b041693271f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d00591e72a3c44a97e8cf1e161da4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_54
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46671d320642444cbf35554e6171a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a7870360bd74348b6b60625e09d77d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc145684a098d88479c51bd2757a4706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb5655a9ad806439a83c492ff28851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6261f54e8c8d42b781175155fa16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ecf93eb265764ea006def99db73a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_60
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a853531067e8646a86710398678a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e94c0d00cfd7643825a7981cdf79a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87dbff16668d15458dc39aa146a9436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b29ba3bb26180409c297379a0a1342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_64
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac72833fe1f26de49847519aefdff864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_65
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 16
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0ea563880cfc4786fa7365b097951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b806081e91f04d9bf160caaef8f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eeee0b865ca8046803f6e0ff2ac421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_68
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b9d4b8dc3287b498c2b18b80084e05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f77ddfbbdaa9944b6e05f95ac8344d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41da7b96e5cff0849ab8dcecdec6f1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1568915e8d7705f4fb536d50409b2b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264511c93626a1409ec4fdad84c46ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d386c94157114aa48e8b3e0a8be73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410bcca243da8f40882f0347fc5f7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c895c9777ae3d94f8f50af9690d0bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ee60b3c984654ea24b9c52beb0d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_77
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6026a810ded54b93a69077d022cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_78
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26b0c844716a44a94b7e196513ff8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe6901fa75f3f41be4627c23f42ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2904235a280ae4644af228ba1ddfc636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92fd23b9db87bf4cbefc0c0ec792707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056d294169c72ab4e9000e9f97982a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_83
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe309283e255c04faa7bd8a62458883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_84
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f984b5e4d129f54fb4130f8959ec693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62116335a5dbe469ae57ce00c3a732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b7fcedcc39e34e9a56c6133634dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_87
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb737b9935b0bb047befd0ae33e94247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_88
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1ed65d0f7b0d439a5722b7489fe9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_89
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485287838cd7e274686a7fa8e7592182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_90
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde06f7b212b5b4881d174babb44960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2555e3b61037f44ebfb71bcf155759e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_92
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b45212d7657d445b9c371202f46099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6046bda519c4db040bc05a32f04b129d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e88f5b2f9ecc94ebfc0c6feea0a7be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_95
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940fb0bdb16722345a7737075ea64853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_96
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6da16708999d4181964817afe54aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_97
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357311744fb2fc347a9d89b19f914686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_98
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67cbf746ec6e444c8a54dc02c713109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_99
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede0a7cb0763c741b41c0b8f8e5ef5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_100
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb16d77c20459498bc7821a0cf13a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_101
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf2829dcba99649a31146a5d5bbfd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mettaton, oh yeah_102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905723637337d74a916085325ea6a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3c0718cc800d2f419b93b4ed28dbd49
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
