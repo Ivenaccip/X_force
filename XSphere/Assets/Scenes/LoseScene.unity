@@ -373,6 +373,54 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 677530464}
   m_CullTransparentMesh: 0
+--- !u!1001 &719104950
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 108.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 66.959
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066333444653288, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b0e390998c0ac543bfecbcddb072b96, type: 2}
+  m_IsPrefabAsset: 0
+--- !u!114 &719104951 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114334396010181974, guid: 1b0e390998c0ac543bfecbcddb072b96,
+    type: 2}
+  m_PrefabInternal: {fileID: 719104950}
+  m_Script: {fileID: 11500000, guid: e1efbdace44279442ab23193d8b439c1, type: 3}
 --- !u!1 &760426295
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,6 +816,7 @@ GameObject:
   - component: {fileID: 1790469982}
   - component: {fileID: 1790469985}
   - component: {fileID: 1790469984}
+  - component: {fileID: 1790469986}
   - component: {fileID: 1790469983}
   m_Layer: 5
   m_Name: Button
@@ -870,3 +919,16 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1790469981}
   m_CullTransparentMesh: 0
+--- !u!114 &1790469986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1790469981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3fd72c6c4544f24d8fb3c0aeb07df42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneChanger: {fileID: 719104951}
+  Continue: {fileID: 1790469983}

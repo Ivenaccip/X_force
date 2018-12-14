@@ -16,9 +16,6 @@ public class Camara : MonoBehaviour {
 	void Update () {
 		transform.position = target.transform.position + new Vector3(xOffset, yOffset, zOffset);
 		transform.LookAt (target.transform.position);
-		if(Input.GetKey(KeyCode.Q))
-		{
-			transform.position = target.transform.position + new Vector3(xOffset -2, yOffset + 2, zOffset);
-		}
+		
 	}
 }

@@ -11,7 +11,7 @@ public class Timer : MonoBehaviour {
 	void Start () {
 
 		ClockQuantity = 120;
-		Clock = GameObject.Find("RelojQuantity").GetComponent<Text> ();
+		Clock = GameObject.Find("ClockQuantity").GetComponent<Text> ();
 		
 	}
 	
@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour {
 		if(PlusTime.tag == "Player")
 		{
 			gameObject.SetActive(false);
-			ClockQuantity = ClockQuantity + 10;
+			ClockQuantity = ClockQuantity + 2;
 			Clock.text = ClockQuantity.ToString();
 		}
 		

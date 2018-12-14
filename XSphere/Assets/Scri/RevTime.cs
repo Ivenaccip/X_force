@@ -5,17 +5,26 @@ using UnityEngine.UI;
 
 public class RevTime : MonoBehaviour {
 
-	public static int TiempoAtras = 120;
+	public float TiempoAtras = 120;
 
 	Text Clock;
+	public SceneChanger sceneChanger;
 	// Use this for initialization
 	void Start () {
 		TiempoAtras= 120;
-		Clock = GameObject.Find("RelojQuantity").GetComponent<Text> ();
+		Clock = GameObject.Find("ClockQuantity").GetComponent<Text> ();
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+		TiempoAtras -= Time.deltaTime;
+		Clock.text = TiempoAtras.ToString();
+
+		if (TiempoAtras <= 0 )
+		{
+			sceneChanger.ChangeSceneTo("LoseScene");
+		}
 	}
+
+
 }
