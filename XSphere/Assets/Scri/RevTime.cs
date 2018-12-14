@@ -11,7 +11,7 @@ public class RevTime : MonoBehaviour {
 	public SceneChanger sceneChanger;
 	// Use this for initialization
 	void Start () {
-		TiempoAtras= 120;
+		TiempoAtras= 300;
 		Clock = GameObject.Find("ClockQuantity").GetComponent<Text> ();
 	}
 	

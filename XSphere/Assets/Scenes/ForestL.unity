@@ -557,6 +557,16 @@ Prefab:
       propertyPath: sceneChanger
       value: 
       objectReference: {fileID: 1357737739}
+    - target: {fileID: 114929433213739076, guid: 389c718b33892ec469d22df9eb56f41b,
+        type: 2}
+      propertyPath: m_Text
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 114202613884896650, guid: 389c718b33892ec469d22df9eb56f41b,
+        type: 2}
+      propertyPath: TiempoAtras
+      value: 300
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 389c718b33892ec469d22df9eb56f41b, type: 2}
   m_IsPrefabAsset: 0
@@ -2427,15 +2437,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4283814763022850, guid: 816528fcd5d2303448f5276873bb5064, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 102.3
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 4283814763022850, guid: 816528fcd5d2303448f5276873bb5064, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 61.962
+      value: 108
       objectReference: {fileID: 0}
     - target: {fileID: 4283814763022850, guid: 816528fcd5d2303448f5276873bb5064, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 30.1
+      value: 167.9
       objectReference: {fileID: 0}
     - target: {fileID: 4283814763022850, guid: 816528fcd5d2303448f5276873bb5064, type: 2}
       propertyPath: m_LocalRotation.x

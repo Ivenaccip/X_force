@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/GoodScene.unity
     guid: 9fb3ae14222f4f64db05796e52193f50
   - enabled: 1
+    path: Assets/Scenes/Livio.unity
+    guid: dc42092215c3acd41a98594b044fb4ed
+  - enabled: 1
     path: Assets/Scenes/LoseScene.unity
     guid: cae95acb14555474ba15e296eb88d646
   - enabled: 1
